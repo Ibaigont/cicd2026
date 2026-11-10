@@ -9,3 +9,12 @@ jobs:
     steps:
       - name: Mezua erakutsi
         run: echo "Kaixo Actions!"
+
+      - name: Kodea jaitsi
+        uses: actions/checkout@v7
+
+      - name: Kodea frogatu
+        run: python3 main.py
+
+
+        

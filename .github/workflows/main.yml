@@ -1,0 +1,11 @@
+name: Lehen workflowa
+
+on: push
+
+jobs:
+  probar_software:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mezua erakutsi
+        run: echo "Kaixo Actions!"

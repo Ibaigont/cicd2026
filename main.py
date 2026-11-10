@@ -1,1 +1,1 @@
-printttttt("Kaixo Mundua")
+print("Kaixo Mundua")

@@ -38,7 +38,7 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: ulopeznovoa/hola2026
+          tags: ibaigont/kaixo2026
 
 
         
